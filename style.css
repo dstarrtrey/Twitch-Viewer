@@ -1,0 +1,53 @@
+body {
+    padding: 0;
+    margin: 0;
+  background-color:#90CAF9;
+}
+#twitch-embed{
+  float: left;
+ 
+}
+ul{
+  margin-top:34px;
+}
+li{
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing:.4px;
+  
+  background-color:#64B5F6;
+  color:#37474F;
+  margin-bottom:6px;
+  margin-left:840px;
+  list-style-type:none;
+  padding-left:25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 17px;
+  border: 1px solid black;
+}
+#formy{
+  width:100%;
+  position:fixed;
+  top:0;
+  left:0;
+  background-color:#90CAF9;
+  display: inline;
+  font-weight:bold;
+  padding-bottom:2px;
+  padding-top:4px;
+  padding-left:50px;
+  color:#37474F
+}
+input[type=search] {
+  padding-left:15px;
+  border: 2px solid white;
+    border-radius: 4px;
+    background-color: #90CAF9;
+    color: #37474F;
+  font-size: 14px;
+  width: 150px;
+  height:25px;
+}
+a{
+  text-decoration: none;
+}
